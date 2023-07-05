@@ -1,0 +1,15 @@
+h2{
+    color:rgb(41, 41, 63);
+    background-color: rgb(218, 186, 186);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    }
+
+    td {
+        padding-left: 35px;
+    padding-right: 35px;
+    }
+    #_Intro{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
