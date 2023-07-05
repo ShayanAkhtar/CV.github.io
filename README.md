@@ -1,6 +1,6 @@
 # CV Website README
 
-This is the README file for the CV website hosted at [https://shayanakhtar.github.io/](https://shayanakhtar.github.io/).
+This is the README file for the CV website hosted at [https://shayanakhtar.github.io/](https://shayanakhtar.github.io/CV.github.io/).
 
 ## Overview
 
